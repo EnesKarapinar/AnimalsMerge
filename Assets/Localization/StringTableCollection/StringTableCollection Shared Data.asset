@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: StringTableCollection Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: StringTableCollection
+  m_TableCollectionNameGuidString: 5d06e6b9181fb034ebc5b33f83e3248c
+  m_Entries:
+  - m_Id: 321600008192
+    m_Key: Key_Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377069678592
+    m_Key: Key_Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406509498368
+    m_Key: Key_Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 494568910848
+    m_Key: Key_Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522322620416
+    m_Key: Key_SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 574478790656
+    m_Key: Key_Vibrate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 840653516800
+    m_Key: Key_Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 865794174976
+    m_Key: Key_Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 890540568576
+    m_Key: Key_High_Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 938028478464
+    m_Key: Key_Try_Again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 977429770240
+    m_Key: Key_Main_Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1063702409216
+    m_Key: Key_Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100922662912
+    m_Key: Key_Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2447933150289920
+    m_Key: Key_Purchased
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2500008148164608
+    m_Key: Key_Ad_Break
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121031398776832
+    m_Key: Key_Ad_Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121082481205248
+    m_Key: Key_Min_Ad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121111707115520
+    m_Key: Key_Max_Ad
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1820896291388391639
+  references:
+    version: 2
+    RefIds:
+    - rid: 1820896291388391639
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1732557450030

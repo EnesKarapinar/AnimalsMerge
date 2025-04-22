@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringTableCollection_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 5d06e6b9181fb034ebc5b33f83e3248c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 321600008192
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377069678592
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406509498368
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 494568910848
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 522322620416
+    m_Localized: Sound Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 574478790656
+    m_Localized: Allow Vibrations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 840653516800
+    m_Localized: Game Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 865794174976
+    m_Localized: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 890540568576
+    m_Localized: High Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 938028478464
+    m_Localized: Try Again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 977429770240
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1063702409216
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100922662912
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2447933150289920
+    m_Localized: Purchased
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2500008148164608
+    m_Localized: Ad Break
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121031398776832
+    m_Localized: Ad Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121082481205248
+    m_Localized: Minimum Ad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3121111707115520
+    m_Localized: Maximum Ad
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
