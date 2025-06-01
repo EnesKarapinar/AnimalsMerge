@@ -17,6 +17,13 @@ Her hayvan türü bir seviyeyi temsil eder ve toplamda 11 farklı hayvan mevcutt
 [![](https://github.com/EnesKarapinar/AnimalsMerge/blob/main/appIcon.png?raw=true)](https://drive.google.com/file/d/18JRLj6PAx5hWbjfLegzy3N5HNwREAII1/view?usp=sharing)
 #
 
+## Sunum Videosu
+[![](https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png)](https://youtu.be/4lpwLwrIT3A?si=OfLQDH7UwRmg6f7U)
+
+## Sunum Dosyası
+[![](https://static.vecteezy.com/system/resources/previews/027/179/348/non_2x/microsoft-power-point-icon-logo-symbol-free-png.png)](https://docs.google.com/presentation/d/1gMmWiRxJrRsMCl2GRD0v3zoSYJjyQCKe/edit?usp=sharing&ouid=108342752151884181418&rtpof=true&sd=true)
+#
+
 ## Geliştiriciler
 
 - Abdullah Enes Karapınar - 205541059
