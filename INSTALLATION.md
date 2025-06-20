@@ -35,7 +35,9 @@ Bu döküman, Animals Merge projesini çalıştırmak ve olası sorunları gider
 - **Visual Studio** (2022 önerilir) kurarken Unity desteğini seç.
 
 ### 2. Projenin İndirilmesi
+```bash
 git clone https://github.com/EnesKarapinar/AnimalsMerge.git
+```
 
 ### 3. Projeyi Unity ile Açma
 - **Unity Hub > Projects > Add > AnimalsMerge** klasörünü seç.
